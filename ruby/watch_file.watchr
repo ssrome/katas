@@ -1,3 +1,3 @@
 watch( '.*\.rb' ) do
-    system 'bundle exec rspec -f doc'
+    system 'bundle exec rspec'
 end 
