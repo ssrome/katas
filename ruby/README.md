@@ -1,5 +1,7 @@
 # Ruby Katas
 
+- Palindrome
+
 Run RSpec with Bundle
 
 ## Setup process
