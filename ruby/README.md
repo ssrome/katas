@@ -4,7 +4,7 @@ Run RSpec with Bundle
 
 ## Setup process
 
-1. Run 
+1. Install 
 ```
 bundle install --path vendor/bundle
 ```
