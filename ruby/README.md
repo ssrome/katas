@@ -1,6 +1,7 @@
 # Ruby Katas
 
 - Palindrome
+- [String Calculator](https://kata-log.rocks/string-calculator-kata)
 
 Run RSpec with Bundle
 
