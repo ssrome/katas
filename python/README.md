@@ -5,12 +5,14 @@
 pip install -r requirements.txt
 ```
 
-## Run tests
+## Testing
+
+### Run tests
 ```
 pytest
 ```
 
-## To watch tests and run a report
+### To watch tests and run a report
 ```
 make watch-test-report
 ```
